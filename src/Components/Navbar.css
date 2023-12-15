@@ -1,0 +1,25 @@
+.navUl{
+    background-color: chocolate;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+/* .navLi{
+} */
+.navLink{
+    color: antiquewhite;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 48px;
+    text-decoration: none;
+    padding-left: 2em;
+    padding-right: 2em;
+}
+.navLink:hover{
+    background-color:rgb(214, 139, 85);
+    transition: 0.4s;
+}
+/* html{
+    background-color:chocolate;
+} */
