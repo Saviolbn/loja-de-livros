@@ -1,0 +1,10 @@
+.genreUl{
+    border-style: solid;
+    margin: 10px;
+}
+.genreLi{
+    list-style-type: none;
+    border-style: solid;
+    margin: 10px;
+}
+
